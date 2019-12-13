@@ -1,0 +1,8 @@
+Good experience on a broad range of Java technologies esp sound knowledge on EJB is must.
+• Good level of knowledge in EJB3, JMS, XML, JAXB, JBoss, Spring MVC, JavaScript, Dojo, BIRT and Web Methods.
+• Good level of knowledge on ORM frameworks preferably Hibernate and JPA.
+• Good level of knowledge of version control systems and build tools like Maven and Ant.
+• Good level of knowledge of unit testing frameworks (JUnit).
+• Strong relational database experience (preferably Sybase or MS SQL).
+• Experience in object oriented software development.
+• Experience in all phases of systems development, experience with Agile methodology will be highly regarded
